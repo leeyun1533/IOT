@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		
+	</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+	
+
+	#main
+	{
+		width: 1800px;
+		height: 760px;
+		border:6px solid #83b14e;
+		margin-left: 5%;
+		margin-right: 5%;
+		margin-top: 3%;
+
+	}
+	#title
+	{
+		margin-left: 600px;
+		font-size: 30px;
+		margin-top: 20px;
+		
+	}
+	 #a
+	 {
+	 	width: 400px;
+	 	height: 300px;
+	 	
+	 	display: inline-block;
+	 	position:relative;
+	 	margin-bottom: 10px;
+	 	border:6px solid #83b14e;
+
+
+	 }
+	  #b
+	 {
+	 	width: 400px;
+	 	height: 300px;
+	 	border:6px solid #83b14e;
+	 	display: inline-block;
+
+
+	 }
+	  #c
+	 {
+	 	width: 400px;
+	 	height: 300px;
+	 	border:6px solid #83b14e;
+		display: inline-block;	 
+	 }
+
+	  #d
+	 {
+	 	width: 400px;
+	 	height: 300px;
+	 border:6px solid #83b14e;
+	 	display: inline-block;
+	 	margin-top: 10px;
+	 }
+	  #e
+	 {
+	 	width: 400px;
+	 	height: 300px;
+	 	border:6px solid #83b14e;
+	 	display: inline-block;
+	 }
+	  #f
+	 {
+	 	width: 400px;
+	 	height: 300px;
+	 	border:6px solid #83b14e;
+	 	display: inline-block;
+	 }
+	  #g
+	 {
+	 	width: 400px;
+	 	height: 300px;
+		border:6px solid #83b14e;
+	 	display: inline-block;
+	 }
+	  #h
+	 {
+	 	width: 400px;
+	 	height: 300px;
+	 	border:6px solid #83b14e;
+	 	display: inline-block;
+	 }
+	 
+	 #sideL
+	 {
+	 	width:3%;
+	 	height: 1000px;
+	 	float:left;
+	 }
+	 #sideR
+	 {
+	 	width:100px;
+	 	height: 100%;
+	 	float:right;
+	 }
+	  #sideT
+	 {
+	 	width:100%;
+	 	height: 80px;
+	
+	 }
+	 
+	 #prop
+	 {
+	 	width: 200px;
+	 	height: 200px;
+	 	margin-left: 45%;
+	 }
+	
+	</style>
+</head>
+	<body>
+		<header style="height:50px"></header>
+		<section>
+		  <div id="main">
+			<div id="sideL">.</div>
+			<div id="sideT"><div id="title">Smart IOT HOME CARE SYSTEM</div></div>
+			<div id="a" >SYSTEM ON/OFF</div> 
+			<div id="b" >온도</div>
+			<div id="c" >습도</div>
+			<div id="d" >전등</div>
+			<div id="e" >침입자 감지</div>
+			<div id="f" >빗물 감지</div>
+			<div id="g" >화재감지시스템</div>
+			<div id="h" style="cursor: pointer;" onclick="window.location.href='http://www.naver.com/';">환경설정</div>
+			<div id="sideR">.</div>
+		</div>
+	
+		</section>
+	</body>
+	
+</html>
